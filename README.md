@@ -24,6 +24,7 @@ Hệ thống phù hợp cho các bài toán điều hướng giao thông trong m
 
 - [Giới thiệu](#-giới-thiệu)
 - [Tính năng](#-tính-năng)
+- [Kiến trúc](#-kiến-trúc)
 - [Minh họa giao diện](#-minh-họa-giao-diện)
 - [Kết quả](#-kết-quả)
 
@@ -56,7 +57,17 @@ Hệ thống phù hợp cho các bài toán điều hướng giao thông trong m
 
 ---
 
+🧩 Kiến trúc
+<p align="center">
+  <img src="Images/screenshot-2025-12-06-180456.png" width="720">
+</p>
 
+---
+
+🖼️ Giao diện
+<p align="center">
+  <img src="Images/1.png" width="720">
+</p>
 
 ---
 
