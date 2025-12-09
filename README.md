@@ -55,7 +55,7 @@ Hệ thống phù hợp cho các bài toán điều hướng giao thông trong m
 
 🖼️ Giao diện
 <p align="center">
-  <img src="Images/1.png" width="720">
+  <img src="Images/2.png" width="720">
 </p>
 
 ---
