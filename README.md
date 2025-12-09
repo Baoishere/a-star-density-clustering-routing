@@ -59,7 +59,7 @@ Hệ thống phù hợp cho các bài toán điều hướng giao thông trong m
 
 🧩 Kiến trúc
 <p align="center">
-  <img src="Images/screenshot-2025-12-06-180456.png" width="720">
+  <img src="Images/3.png" width="720">
 </p>
 
 ---
