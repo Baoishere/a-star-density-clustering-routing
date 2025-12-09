@@ -24,12 +24,9 @@ Hệ thống phù hợp cho các bài toán điều hướng giao thông trong m
 
 - [Giới thiệu](#-giới-thiệu)
 - [Tính năng](#-tính-năng)
-- [Kiến trúc & Phương pháp](#-kiến-trúc--phương-pháp)
 - [Minh họa giao diện](#-minh-họa-giao-diện)
-- [Cài đặt](#-cài-đặt)
 - [Kết quả](#-kết-quả)
-- [Định hướng phát triển](#-định-hướng-phát-triển)
-- [Tác giả](#-tác-giả)
+
 
 ---
 
@@ -59,17 +56,17 @@ Hệ thống phù hợp cho các bài toán điều hướng giao thông trong m
 
 ---
 
-## 🧩 Kiến trúc & Phương pháp
 
-### **1. Xử lý dữ liệu**
-- Loại bỏ bản ghi nhiễu  
-- Nội suy dữ liệu thiếu  
-- Chuẩn hóa tốc độ và LOS  
-- Tính tâm cluster, khoảng cách cluster, trọng số ùn tắc  
 
-### **2. Phân cụm**
-Chạy nhiều cấu hình tham số → so sánh → chọn HDBSCAN:
+---
 
-```python
-clusterer = hdbscan.HDBSCAN(min_cluster_size=30, metric="euclidean")
-labels = clusterer.fit_predict(features)
+📊 Kết quả
+
+HDBSCAN phân cụm ổn định hơn so với DBSCAN & OPTICS
+
+A* mở rộng cho đường đi hợp lý hơn, tránh các đoạn LOS E–F
+
+Tuyến đường tránh ùn tắc thường dài hơn một chút nhưng thời gian di chuyển giảm
+
+Trực quan hóa giúp dễ đánh giá mức độ phù hợp
+
