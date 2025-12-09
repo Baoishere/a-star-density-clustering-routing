@@ -20,17 +20,6 @@ Hệ thống phù hợp cho các bài toán điều hướng giao thông trong m
 
 ---
 
-## 📑 Mục lục
-
-- [Giới thiệu](#-giới-thiệu)
-- [Tính năng](#-tính-năng)
-- [Kiến trúc](#-kiến-trúc)
-- [Minh họa giao diện](#-minh-họa-giao-diện)
-- [Kết quả](#-kết-quả)
-
-
----
-
 ## 🚀 Tính năng
 
 ### ⭐ Phân tích & xử lý dữ liệu giao thông
